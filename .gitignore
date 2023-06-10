@@ -1,0 +1,7 @@
+# ignore all .env files in smart-shorter-api folder & smart-shorter-client folder
+/smart-shorter-api/.env
+/smart-shorter-client/.env
+
+# ignore all node_modules folders in smart-shorter-api folder & smart-shorter-client folder
+/smart-shorter-api/node_modules/
+/smart-shorter-client/node_modules/
